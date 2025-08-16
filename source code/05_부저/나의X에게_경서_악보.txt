@@ -1,0 +1,29 @@
+솔파미솔솔(붙임줄)솔미레(8분쉼표)레솔/높은도/시라(붙임줄)라솔미(4분쉼표)
+도레미레(붙임줄)레도도(붙임줄)도파미파솔레(붙임줄)레솔파미솔솔(붙임줄)솔미레(8분쉼표)레솔 
+높은도/시라(붙임줄)라/높은도/솔솔(4분쉼표)솔도레(붙임줄)레미레도도(붙임줄)도파미레도레미도(붙임줄)도
+
+솔파미솔솔미레(8분쉼표)레솔/
+
+높은도/시라솔미(4분쉼표)
+
+도레미레도도파미파솔레
+
+솔파미솔솔미레(8분쉼표)레솔 
+
+높은도/시라/높은도/솔솔(4분쉼표)솔도레미레도도파미레도레미도
+
+#define NOTE_DO  523 // C5
+#define NOTE_RE  587 // D5
+#define NOTE_MI  659 // E5
+#define NOTE_FA  698 // F5
+#define NOTE_SOL  784 // G5
+#define NOTE_LA  880 // A5
+#define NOTE_SI  987 // B5
+#define NOTE_HIGH_DO 1046 // C6
+#define NOTE_HIGH_RE 1175 // D6
+#define NOTE_HIGH_MI 1319 // E6
+#define NOTE_HIGH_FA 1397 // F6
+#define NOTE_HIGH_SOL 1568 // G6
+#define NOTE_HIGH_LA 1760 // A6
+#define NOTE_HIGH_SI 1976 // B6
+#define REST 0 // 쉼표
