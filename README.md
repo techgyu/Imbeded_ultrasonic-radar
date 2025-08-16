@@ -18,7 +18,7 @@
   - `10_통합/` : HR-SR04 초음파 센서와 Servo 모터가 연동되어, 서보 모터가 회전하면서 초음파 센서로 물체를 탐지하고, 그 결과를 레이더 이미지로 실시간 표출하는 통합 프로젝트 코드
 
 ## 초음파 레이더 시연 영상
-<img width="80%" src=" "/>
+<img width="80%" src="https://github.com/user-attachments/assets/cce0d5b2-724b-4e3f-8a96-0bc2b19496f0"/>
 
 ## 참고 자료
 - 각종 센서 메뉴얼, 핀맵, 발표자료 등은 `reference/` 폴더에 있습니다.
