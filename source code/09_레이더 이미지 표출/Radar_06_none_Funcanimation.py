@@ -64,7 +64,7 @@ def draw_line(frame):
 
     # 대각선 45도 방향의 직선을 그립니다
     ax.plot([0, 0.71], [0, 0.71], color='lime', linestyle='--')
-ㅁㅁ
+
     # 대각선 135도 방향의 직선을 그립니다
     ax.plot([-0.71, 0], [0.71, 0], color='lime', linestyle='--')
 
